@@ -32,5 +32,5 @@ The algorithm is designed for flexibility and effective workload management, ens
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-tetris.git
-   cd task-tetris
+   git clone [https://github.com/your-username/task-tetris.git](https://github.com/dagrig/Predictive-Adaptive-Quantum-Balancing.git)
+   cd paqb
